@@ -1,0 +1,9 @@
+NODE_ENV='development'
+VUE_APP_CURRENTMODE='development'
+VUE_APP_URL= 'http://192.168.125.139:8088/'
+
+
+
+#接口安全
+VUE_APP_AppKey=guohangkey789
+VUE_APP_AppSecret=778899

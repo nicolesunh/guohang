@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<!-- saved from url=(0039)http://www.shisc.net/p/fund/public/user -->
+<html lang="zh-CN" class="no-js"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="format-detection" content="telephone=no">
+
+    <title>资金申请 - 上海国际航运中心网</title>
+
+    <link href="./fundlogo_files/layui.css" rel="stylesheet" type="text/css">
+    <link href="./fundlogo_files/style.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="./fundlogo_files/jquery-1.8.0.min.js.下载"></script>
+    <script type="text/javascript" src="./fundlogo_files/general.js.下载"></script>
+</head><body>
+
+<div class="site-header-container">
+    <div class="site-header">
+        <div class="site-header-title">上海国际航运中心建设专项资金申请</div>
+        <div class="site-header-logout">
+            <a href="http://www.shisc.net/newlogout">登出</a>
+        </div>
+        <div class="site-header-home">
+
+                    <a href="http://www.shisc.net/" target="_blank">国航网首页</a>
+        </div>
+    </div><!--.siter-header-->
+</div><!--.site-header-container-->
+<div class="site-middle">
+    <div class="site-menu">
+        
+        <a href="http://www.shisc.net/p/fund/public">
+                        <div class="site-menu-item-sel">已有申请</div>
+                    </a>
+        <a href="http://www.shisc.net/p/fund/public/add">
+                        <div class="site-menu-item">新建申请</div>
+                    </a>
+        <a href="http://www.shisc.net/p/fund/public/register/n">
+                        <div class="site-menu-item">我的信息</div>
+                    </a>
+            </div><!--.site-menu-->
+
+            <div class="path">
+        <span>已有申请</span>
+    </div>
+    <div class="content">
+        <table class="table-business">
+            <tbody><tr>
+                <td>
+                    <span>业务期间</span>
+                </td>
+                <td>
+                    <span>申请单位</span>
+                </td>
+                <td>
+                    <span>申请时间</span>
+                </td>
+                <td>
+                    <span>编辑</span>
+                </td>
+                <td colspan="2">
+                    <span>预览打印</span>
+                </td>
+                <td>
+                    <span>状态</span>
+                </td>
+            </tr>
+                    </tbody></table>
+        <div class="comment">
+                <span>来自管理员的留言：</span>
+            <br>
+            <textarea name="comment" id="comment" class="textarea-comment" readonly="">格式有误，请修改。</textarea>
+        </div>
+    </div>
+
+
+</div><!--.site-middle-->
+<div class="site-footer-container">
+    <div class="site-footer">
+        <a title="关于我们" href="http://www.shisc.net/p/p/about">关于我们</a>｜
+        <a href="http://www.shisc.net/p/p/sitemap">网站地图</a>｜
+        <a href="http://www.shisc.net/p/p/contact">联系我们&nbsp;</a>｜
+        <a href="http://www.shisc.net/p/p/declaration">法律声明</a>
+        &nbsp;<br>
+        上海国际航运中心网 版权所有©&nbsp;2016&nbsp;&nbsp; 沪ICP备15009582号-1<br> 主办单位：上海市国际航运中心建设工作推进小组办公室
+    </div><!--.site-footer-->
+</div><!--.site-footer-container-->
+
+
+
+</body></html>
